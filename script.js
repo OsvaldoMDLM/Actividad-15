@@ -48,7 +48,7 @@ $(document).ready(function() {
     grade.addClass('title is-size-3 ml-6')
     grade.text('Grupo 5to. A')
     teacher.addClass('ml-6 is-size-5')
-    teacher.html('Profesor<strong>José Nabor Ramírez Morfín</strong>')
+    teacher.html('Profesor:<strong> José Nabor Ramírez Morfín</strong>')
     listTitle.addClass('title has-text-centered mt-5')
     listTitle.css(cssListTlitle)
     listTitle.text('Listado de Alumnos')
